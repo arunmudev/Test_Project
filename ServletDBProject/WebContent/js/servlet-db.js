@@ -3,8 +3,7 @@
  */
 $(document).ready(function(){
 	$("#save-btn").click(function(){
-	    var url="ServletDbController";
-		
+	    var url="ServletDbController";	
 		var title = $("#title-input").val();
 	     var author = $("#author-input").val();
 	     var price = $("#price-input").val();

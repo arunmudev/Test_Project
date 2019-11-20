@@ -2,7 +2,6 @@ package org.company.model;
 
 public class Model {
 
-	
 	private String name;
 
 	public void setName(String name){
